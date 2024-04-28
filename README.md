@@ -4,6 +4,20 @@
 1. Sai Akhil Tekuri - st5050
 2. Inder Khatri - ik2535
 
+## Milestone3
+Name of the assignment: AI_Final_Project_M3.ipynb
+
+Date of submission: 04/28/24
+
+Instructions on how to run the code: 1) Download the python notebook, open it in google colab and run.
+
+Instructions on how to run any tests (if applicable): N/A 
+
+Instructions on how to run any notebook (if applicable): 1) Download the python notebook, open it in google colab and run. 
+
+PS: Since the finetuning for 1 epoch is taking 13 hrs, we couldn't do it in colab. So just for the finetuning we created milestone3.ipynb and did the finetuning on kaggle for 1 epoch, saved the weights, and used those weights in AI_Final_Project_M3.ipynb for inference
+PS: AI_Final_Project_M3.ipynb has both milestone1, milestone 2 and  milestone3
+
 ## Milestone2
 Name of the assignment: AI_Final_Project_M2.ipynb
 
