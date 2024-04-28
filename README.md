@@ -16,7 +16,14 @@ Instructions on how to run any tests (if applicable): N/A
 Instructions on how to run any notebook (if applicable): 1) Download the python notebook, open it in google colab and run. 
 
 PS: Since the finetuning for 1 epoch is taking 13 hrs, we couldn't do it in colab. So just for the finetuning we created milestone3.ipynb and did the finetuning on kaggle for 1 epoch, saved the weights, and used those weights in AI_Final_Project_M3.ipynb for inference
+
 PS: AI_Final_Project_M3.ipynb has both milestone1, milestone 2 and  milestone3
+
+Before fine-tuning: (threshold = 0.5)
+<img src="https://github.com/TekuriSaiAkhil/cs-gy-6613-project/blob/main/before_finetuning.png" width="1000px"/>
+
+After fine-tuning: (threshold = 0.5)
+<img src="https://github.com/TekuriSaiAkhil/cs-gy-6613-project/blob/main/after_finetuning.png" width="1000px"/>
 
 ## Milestone2
 Name of the assignment: AI_Final_Project_M2.ipynb
