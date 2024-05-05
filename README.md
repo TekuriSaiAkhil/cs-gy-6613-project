@@ -22,6 +22,11 @@ PS: AI_Final_Project_M5.ipynb has both milestone1, milestone 2, milestone3, mile
 
 PS: If you want just to view the code and outputs for milestone 5 open dummy.ipynb file in github (we have removed the milestone 2, milestone3 in this notebook to reduce file size)
 
+
+Sample results of Milestone 5
+<img src="https://github.com/TekuriSaiAkhil/cs-gy-6613-project/blob/main/milestone5_output/test_image4.png" width="1000px"/>
+<img src="https://github.com/TekuriSaiAkhil/cs-gy-6613-project/blob/main/milestone5_output/test_image2.png" width="1000px"/>
+
 ## Milestone3
 Name of the assignment: AI_Final_Project_M3.ipynb
 
