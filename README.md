@@ -4,6 +4,24 @@
 1. Sai Akhil Tekuri - st5050
 2. Inder Khatri - ik2535
 
+## Milestone5
+Name of the assignment: AI_Final_Project_M5.ipynb
+
+Date of submission: 05/05/24
+
+Instructions on how to run the code: 
+1. Download the python notebook, open it in google colab and run.
+2. Git hub is not able to preview the images because of large size. download the notebook and open in google colab to view the code and output images
+3. Results for 10 validation images are added in the milestone5_output/ directory
+
+Instructions on how to run any tests (if applicable): N/A 
+
+Instructions on how to run any notebook (if applicable): 1) Download the python notebook, open it in google colab and run. 
+
+PS: AI_Final_Project_M5.ipynb has both milestone1, milestone 2, milestone3, milestone 5
+
+PS: If you want just to view the code and outputs for milestone 5 open dummy.ipynb file in github (we have removed the milestone 2, milestone3 in this notebook to reduce file size)
+
 ## Milestone3
 Name of the assignment: AI_Final_Project_M3.ipynb
 
